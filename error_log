@@ -1,0 +1,649 @@
+[04-Apr-2022 22:03:04 America/Bahia] {"message":"The User ID must match the consultant's","error":"forbidden","status":403,"cause":[]}
+[05-Apr-2022 07:32:53 America/Bahia] {"message":"The User ID must match the consultant's","error":"forbidden","status":403,"cause":[]}
+[05-Apr-2022 07:32:53 America/Bahia] {"message":"Must provide your access_token to proceed","error":"unauthorized","status":401,"cause":[{"code":5,"description":"Must provide your access_token to proceed","data":"05-04-2022T10:32:53UTC;2d30056d-287a-427d-b77e-538d67424db5"}]}
+[29-May-2022 05:49:11 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:49:11 America/Bahia] PHP Stack trace:
+[29-May-2022 05:49:11 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:49:11 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:49:11 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:49:11 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:49:11 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:49:16 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:49:16 America/Bahia] PHP Stack trace:
+[29-May-2022 05:49:16 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:49:16 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:49:16 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:49:16 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:49:16 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:49:17 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:49:17 America/Bahia] PHP Stack trace:
+[29-May-2022 05:49:17 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:49:17 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:49:17 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:49:17 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:49:17 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:49:18 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:49:18 America/Bahia] PHP Stack trace:
+[29-May-2022 05:49:18 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:49:18 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:49:18 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:49:18 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:49:18 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:49:39 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:49:39 America/Bahia] PHP Stack trace:
+[29-May-2022 05:49:39 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:49:39 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:49:39 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:49:39 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:49:39 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:49:50 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:49:50 America/Bahia] PHP Stack trace:
+[29-May-2022 05:49:50 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:49:50 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:49:50 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:49:50 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:49:50 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:52:00 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:52:00 America/Bahia] PHP Stack trace:
+[29-May-2022 05:52:00 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:52:00 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:52:00 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:52:00 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:52:00 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:52:35 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:52:35 America/Bahia] PHP Stack trace:
+[29-May-2022 05:52:35 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:52:35 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:52:35 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:52:35 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:52:35 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:52:36 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:52:36 America/Bahia] PHP Stack trace:
+[29-May-2022 05:52:36 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:52:36 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:52:36 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:52:36 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:52:36 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:52:37 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:52:37 America/Bahia] PHP Stack trace:
+[29-May-2022 05:52:37 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:52:37 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:52:37 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:52:37 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:52:37 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:52:38 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:52:38 America/Bahia] PHP Stack trace:
+[29-May-2022 05:52:38 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:52:38 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:52:38 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:52:38 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:52:38 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:54:34 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:54:34 America/Bahia] PHP Stack trace:
+[29-May-2022 05:54:34 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:54:34 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:54:34 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:54:34 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:54:34 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:54:36 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:54:36 America/Bahia] PHP Stack trace:
+[29-May-2022 05:54:36 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:54:36 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:54:36 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:54:36 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:54:36 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:54:56 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:54:56 America/Bahia] PHP Stack trace:
+[29-May-2022 05:54:56 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:54:56 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:54:56 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:54:56 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:54:56 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:57:09 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:57:09 America/Bahia] PHP Stack trace:
+[29-May-2022 05:57:09 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:57:09 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:57:09 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:57:09 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:57:09 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:57:31 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:57:31 America/Bahia] PHP Stack trace:
+[29-May-2022 05:57:31 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:57:31 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:57:31 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:57:31 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:57:31 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:57:33 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:57:33 America/Bahia] PHP Stack trace:
+[29-May-2022 05:57:33 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:57:33 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:57:33 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:57:33 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:57:33 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:57:33 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:57:33 America/Bahia] PHP Stack trace:
+[29-May-2022 05:57:33 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:57:33 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:57:33 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:57:33 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:57:33 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:58:23 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:58:23 America/Bahia] PHP Stack trace:
+[29-May-2022 05:58:23 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:58:23 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:58:23 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:58:23 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:58:23 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:58:24 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:58:24 America/Bahia] PHP Stack trace:
+[29-May-2022 05:58:24 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:58:24 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:58:24 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:58:24 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:58:24 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:58:25 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:58:25 America/Bahia] PHP Stack trace:
+[29-May-2022 05:58:25 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:58:25 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:58:25 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:58:25 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:58:25 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:59:03 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:59:03 America/Bahia] PHP Stack trace:
+[29-May-2022 05:59:03 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:59:03 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:59:03 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:59:03 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:59:03 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 05:59:18 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 05:59:18 America/Bahia] PHP Stack trace:
+[29-May-2022 05:59:18 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 05:59:18 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 05:59:18 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 05:59:18 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 05:59:18 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:00:36 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:00:36 America/Bahia] PHP Stack trace:
+[29-May-2022 06:00:36 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:00:36 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:00:36 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:00:36 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:00:36 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:00:38 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:00:38 America/Bahia] PHP Stack trace:
+[29-May-2022 06:00:38 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:00:38 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:00:38 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:00:38 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:00:38 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:00:39 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:00:39 America/Bahia] PHP Stack trace:
+[29-May-2022 06:00:39 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:00:39 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:00:39 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:00:39 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:00:39 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:00:39 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:00:39 America/Bahia] PHP Stack trace:
+[29-May-2022 06:00:39 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:00:39 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:00:39 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:00:39 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:00:39 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:00:40 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:00:40 America/Bahia] PHP Stack trace:
+[29-May-2022 06:00:40 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:00:40 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:00:40 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:00:40 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:00:40 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:00:40 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:00:40 America/Bahia] PHP Stack trace:
+[29-May-2022 06:00:40 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:00:40 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:00:40 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:00:40 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:00:40 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:00:41 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:00:41 America/Bahia] PHP Stack trace:
+[29-May-2022 06:00:41 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:00:41 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:00:41 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:00:41 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:00:41 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:00:41 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:00:41 America/Bahia] PHP Stack trace:
+[29-May-2022 06:00:41 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:00:41 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:00:41 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:00:41 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:00:41 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:00:46 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:00:46 America/Bahia] PHP Stack trace:
+[29-May-2022 06:00:46 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:00:46 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:00:46 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:00:46 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:00:46 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:01:38 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:01:38 America/Bahia] PHP Stack trace:
+[29-May-2022 06:01:38 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:01:38 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:01:38 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:01:38 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:01:38 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:01:39 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:01:39 America/Bahia] PHP Stack trace:
+[29-May-2022 06:01:39 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:01:39 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:01:39 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:01:39 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:01:39 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:01:39 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:01:39 America/Bahia] PHP Stack trace:
+[29-May-2022 06:01:39 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:01:39 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:01:39 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:01:39 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:01:39 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:01:40 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:01:40 America/Bahia] PHP Stack trace:
+[29-May-2022 06:01:40 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:01:40 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:01:40 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:01:40 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:01:40 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:01:40 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:01:40 America/Bahia] PHP Stack trace:
+[29-May-2022 06:01:40 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:01:40 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:01:40 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:01:40 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:01:40 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:01:40 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:01:40 America/Bahia] PHP Stack trace:
+[29-May-2022 06:01:40 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:01:40 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:01:40 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:01:40 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:01:40 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:01:42 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:01:42 America/Bahia] PHP Stack trace:
+[29-May-2022 06:01:42 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:01:42 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:01:42 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:01:42 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:01:42 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:01:43 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:01:43 America/Bahia] PHP Stack trace:
+[29-May-2022 06:01:43 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:01:43 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:01:43 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:01:43 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:01:43 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:01:43 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:01:43 America/Bahia] PHP Stack trace:
+[29-May-2022 06:01:43 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:01:43 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:01:43 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:01:43 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:01:43 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:01:43 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:01:43 America/Bahia] PHP Stack trace:
+[29-May-2022 06:01:43 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:01:43 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:01:43 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:01:43 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:01:43 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:01:44 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:01:44 America/Bahia] PHP Stack trace:
+[29-May-2022 06:01:44 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:01:44 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:01:44 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:01:44 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:01:44 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:01:44 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:01:44 America/Bahia] PHP Stack trace:
+[29-May-2022 06:01:44 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:01:44 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:01:44 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:01:44 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:01:44 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:02:08 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:02:08 America/Bahia] PHP Stack trace:
+[29-May-2022 06:02:08 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:02:08 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:02:08 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:02:08 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:02:08 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:02:09 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:02:09 America/Bahia] PHP Stack trace:
+[29-May-2022 06:02:09 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:02:09 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:02:09 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:02:09 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:02:09 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:02:10 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:02:10 America/Bahia] PHP Stack trace:
+[29-May-2022 06:02:10 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:02:10 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:02:10 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:02:10 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:02:10 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:02:16 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:02:16 America/Bahia] PHP Stack trace:
+[29-May-2022 06:02:16 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:02:16 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:02:16 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:02:16 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:02:16 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:03:15 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:03:15 America/Bahia] PHP Stack trace:
+[29-May-2022 06:03:15 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:03:15 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:03:15 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:03:15 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:03:15 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:03:16 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:03:16 America/Bahia] PHP Stack trace:
+[29-May-2022 06:03:16 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:03:16 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:03:16 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:03:16 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:03:16 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:04:24 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:04:24 America/Bahia] PHP Stack trace:
+[29-May-2022 06:04:24 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:04:24 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:04:24 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:04:24 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:04:24 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:04:47 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:04:47 America/Bahia] PHP Stack trace:
+[29-May-2022 06:04:47 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:04:47 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:04:47 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:04:47 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:04:47 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:04:59 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:04:59 America/Bahia] PHP Stack trace:
+[29-May-2022 06:04:59 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:04:59 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:04:59 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:04:59 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:04:59 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:11:03 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:11:03 America/Bahia] PHP Stack trace:
+[29-May-2022 06:11:03 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:11:03 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:11:03 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:11:03 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:11:03 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[29-May-2022 06:11:06 America/Bahia] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wltoposc/public_html/agrotec/application/models/Vendas_model.php on line 142
+[29-May-2022 06:11:06 America/Bahia] PHP Stack trace:
+[29-May-2022 06:11:06 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/agrotec/index.php:0
+[29-May-2022 06:11:06 America/Bahia] PHP   2. require_once() /home/wltoposc/public_html/agrotec/index.php:306
+[29-May-2022 06:11:06 America/Bahia] PHP   3. Vendas->__construct() /home/wltoposc/public_html/agrotec/application/vendor/codeigniter/framework/system/core/CodeIgniter.php:518
+[29-May-2022 06:11:06 America/Bahia] PHP   4. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/controllers/Vendas.php:19
+[29-May-2022 06:11:06 America/Bahia] PHP   5. MY_Loader->model() /home/wltoposc/public_html/agrotec/application/third_party/MX/Loader.php:346
+[19-Jun-2022 06:52:39 America/Bahia] PHP Fatal error:  Uncaught Whoops\Exception\ErrorException: Invalid argument supplied for foreach() in /home/wltoposc/public_html/sistemas/casabela/application/vendor/filp/whoops/src/Whoops/Resources/views/env_details.html.php:17
+Stack trace:
+#0 /home/wltoposc/public_html/sistemas/casabela/application/vendor/filp/whoops/src/Whoops/Resources/views/env_details.html.php(17): Whoops\Run->handleError(2, 'Invalid argumen...', '/home/wltoposc/...', 17, Array)
+#1 /home/wltoposc/public_html/sistemas/casabela/application/vendor/filp/whoops/src/Whoops/Util/TemplateHelper.php(250): require('/home/wltoposc/...')
+#2 [internal function]: Whoops\Util\TemplateHelper->Whoops\Util\{closure}('/home/wltoposc/...', Array)
+#3 /home/wltoposc/public_html/sistemas/casabela/application/vendor/filp/whoops/src/Whoops/Util/TemplateHelper.php(248): call_user_func(Object(Closure), '/home/wltoposc/...', Array)
+#4 /home/wltoposc/public_html/sistemas/casabela/application/vendor/filp/whoops/src/Whoops/Resources/views/panel_details.html.php(2): Whoops\Util\Templa in /home/wltoposc/public_html/sistemas/casabela/application/vendor/filp/whoops/src/Whoops/Resources/views/env_details.html.php on line 17
+[19-Jun-2022 13:05:16 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:05:16 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:05:16 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:05:16 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:05:16 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:05:16 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:05:48 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:05:48 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:05:48 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:05:48 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:05:48 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:05:48 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:05:57 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:05:57 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:05:57 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:05:57 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:05:57 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:05:57 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:06:01 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:06:01 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:06:01 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:06:01 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:06:01 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:06:01 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:09:11 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:09:11 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:09:11 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:09:11 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:09:11 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:09:11 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:16:01 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:16:01 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:16:01 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:16:01 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:16:01 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:16:01 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:16:27 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:16:27 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:16:27 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:16:27 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:16:27 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:16:27 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:16:55 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:16:55 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:16:55 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:16:55 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:16:55 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:16:55 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:17:00 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:17:00 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:17:00 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:17:00 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:17:00 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:17:00 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:17:52 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:17:52 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:17:52 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:17:52 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:17:52 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:17:52 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:17:56 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:17:56 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:17:56 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:17:56 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:17:56 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:17:56 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:17:57 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:17:57 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:17:57 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:17:57 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:17:57 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:17:57 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:17:57 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:17:57 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:17:57 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:17:57 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:17:57 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:17:57 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:18:07 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:18:07 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:18:07 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:18:07 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:18:07 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:18:07 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:18:08 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:18:08 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:18:08 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:18:08 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:18:08 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:18:08 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:18:08 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:18:08 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:18:08 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:18:08 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:18:08 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:18:08 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:18:24 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:18:24 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:18:24 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:18:24 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:18:24 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:18:24 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:19:55 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:19:55 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:19:55 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:19:55 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:19:55 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:19:55 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:19:57 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:19:57 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:19:57 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:19:57 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:19:57 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:19:57 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:19:58 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:19:58 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:19:58 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:19:58 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:19:58 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:19:58 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:20:23 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:20:23 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:20:23 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:20:23 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:20:23 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:20:23 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:20:25 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:20:25 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:20:25 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:20:25 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:20:25 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:20:25 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:21:37 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:21:37 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:21:37 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:21:37 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:21:37 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:21:37 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:21:37 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:21:37 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:21:37 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:21:37 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:21:37 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:21:37 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:22:03 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:22:03 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:22:03 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:22:03 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:22:03 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:22:03 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:22:04 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:22:04 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:22:04 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:22:04 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:22:04 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:22:04 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:23:16 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:23:16 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:23:16 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:23:16 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:23:16 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:23:16 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:23:17 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:23:17 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:23:17 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:23:17 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:23:17 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:23:17 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:23:37 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:23:37 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:23:37 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:23:37 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:23:37 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:23:37 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:23:53 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:23:53 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:23:53 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:23:53 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:23:53 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:23:53 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:23:53 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:23:53 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:23:53 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:23:53 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:23:53 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:23:53 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:25:02 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:25:02 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:25:02 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:25:02 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:25:02 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:25:02 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:25:02 America/Bahia] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/wltoposc/public_html/sistemas/casabela/index.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wltoposc/public_html/sistemas/casabela/index.php on line 65
+[19-Jun-2022 13:26:13 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:26:13 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:26:13 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:26:13 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:26:13 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:26:13 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:26:13 America/Bahia] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/wltoposc/public_html/sistemas/casabela/index.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wltoposc/public_html/sistemas/casabela/index.php on line 65
+[19-Jun-2022 13:26:14 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:26:14 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:26:14 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:26:14 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:26:14 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:26:14 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:26:14 America/Bahia] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/wltoposc/public_html/sistemas/casabela/index.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wltoposc/public_html/sistemas/casabela/index.php on line 65
+[19-Jun-2022 13:27:02 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:27:02 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:27:02 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:27:02 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:27:02 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:27:02 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:27:02 America/Bahia] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/wltoposc/public_html/sistemas/casabela/index.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wltoposc/public_html/sistemas/casabela/index.php on line 65
+[19-Jun-2022 13:27:03 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:27:03 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:27:03 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:27:03 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:27:03 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:27:03 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:27:03 America/Bahia] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/wltoposc/public_html/sistemas/casabela/index.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wltoposc/public_html/sistemas/casabela/index.php on line 65
+[19-Jun-2022 13:28:02 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:28:02 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:28:02 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:28:02 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:28:02 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:28:02 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:28:32 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:28:32 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:28:32 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:28:32 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:28:32 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:28:32 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:32:22 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 60
+[19-Jun-2022 13:32:22 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:32:22 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
+[19-Jun-2022 13:32:22 America/Bahia] PHP Notice:  Undefined index: sistema in /home/wltoposc/public_html/sistemas/casabela/index.php on line 62
+[19-Jun-2022 13:32:22 America/Bahia] PHP Stack trace:
+[19-Jun-2022 13:32:22 America/Bahia] PHP   1. {main}() /home/wltoposc/public_html/sistemas/casabela/index.php:0
