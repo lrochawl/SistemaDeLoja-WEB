@@ -1,4 +1,4 @@
-# Sistema de Controle de Loja - SCL
+# Sistema de Controle de Loja - WEB
 
 [![Build Status](https://github.com/codeigniter4/CodeIgniter4/workflows/PHPUnit/badge.svg)](#)
 [![Coverage Status](https://coveralls.io/repos/github/codeigniter4/CodeIgniter4/badge.svg?branch=develop)](#)
@@ -9,7 +9,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#)
 <br>
 
-## O que é o Sistema de Controle de Loja (SCL)?
+## O que é o Sistema de Controle de Loja (WEB)?
 
 É um sistema baseado no framework codeigniter [official site](http://codeigniter.com) baseado em PHP é um sistema WEB em desenvolvimento para controle de pequenas empresas com suporte a cadastro de clientes,fornecedores, notas fiscais,estoque de produtos, vendas e controle financeiro.
 
